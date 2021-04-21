@@ -1,0 +1,4 @@
+{
+    "SIGNING_SECRET": "App Credentials 에서 single secret 값",
+    "BOT_USER_OAUTH_ACCESS_TOKEN":"워크스페이스 설치 후 생성 되는 값"
+}
